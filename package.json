@@ -3,7 +3,7 @@
   "eggPlugin": {
     "name": "clusterSchedule"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "egg": {
     "declarations": true
@@ -44,8 +44,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ronghaoZHI/egg-cluster-schedule"
+    "url": "https://github.com/Beckjiang/egg-cluster-schedule"
   },
-  "author": "ronghaoZHI",
+  "author": "Beckjiang",
   "license": "MIT"
 }
