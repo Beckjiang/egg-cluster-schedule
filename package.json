@@ -1,9 +1,9 @@
 {
-  "name": "egg-cluster-schedule",
+  "name": "egg-cluster-schedule3",
   "eggPlugin": {
     "name": "clusterSchedule"
   },
-  "version": "1.0.4",
+  "version": "1.0.2",
   "description": "",
   "egg": {
     "declarations": true
